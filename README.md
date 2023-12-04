@@ -18,3 +18,5 @@
 python3 速达软件全系产品存在任意文件上传.py -u http://xx.xx.xx.xx
 python3 速达软件全系产品存在任意文件上传.py -f xxx.txt
 ```
+
+data参数处可将更改为哥斯拉的webshell.
